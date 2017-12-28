@@ -8,21 +8,21 @@ translate german strings:
 
     # old "In The Name of City God"
     old "城隍退敵"
-    new "Im Namen Des Stadtgottes"
+    new "Im Namen des Stadtgottes"
 
     # old "Return to The Ordinary"
     old "回歸平凡"
-    new "Zurück In Den Alltag"
+    new "Zurück in den Alltag"
 
     # old "It Won't Hurt Too Long"
     old "不會痛太久"
-    new "Es Wird Nicht Lange Weh Tun"
+    new "Es wird nicht lange weh tun"
 
     # old "A Day Trip to Wutai"
     old "小小霧台行"
-    new "Ein Tagesausflug Nach Wutai"
+    new "Ein Tagesausflug nach Wutai"
 
     # old "Never Meet Again"
     old "選擇不再見面"
-    new "Niemals Mehr Begegnen"
+    new "Niemals mehr Begegnen"
 
