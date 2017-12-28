@@ -20,5 +20,5 @@ translate german strings:
 
     # old "Ending Review - Leopard Cat"
     old "結局回顧 - 石虎"
-    new "Rückblick vom Ende - Leoparden Katze"
+    new "Rückblick vom Ende - Bengalkatze"
 
