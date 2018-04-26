@@ -44,7 +44,7 @@ translate german strings:
 
     # old "Space: Dialogue forward"
     old "空白鍵：對話前進"
-    new ""
+    new "Leertaste: Dialog vorantreiben"
 
     # old "Ctrl: Fast forward (void for dialogue unread)"
     old "Ctrl：劇情快轉(第一次觀看時無效)"
