@@ -8,7 +8,7 @@ translate german strings:
 
     # old "Auto Save"
     old "自動存檔"
-    new "Automatische Speicherung"
+    new "Automatisches Speichern"
 
     # old "Empty"
     old "空白"
