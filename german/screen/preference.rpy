@@ -16,7 +16,7 @@ translate german strings:
 
     # old "Speed"
     old "文字速度"
-    new "Schnelligkeit"
+    new "Geschwindigkeit"
 
     # old "Slow"
     old "慢"
